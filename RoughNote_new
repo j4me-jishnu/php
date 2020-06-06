@@ -1,0 +1,4 @@
+1. Where are we calling the functions written in apptest.php
+2. testAppCannotGreetIfNameIsEmpty() function is for what?
+3. tearDown():void{ for what?
+
